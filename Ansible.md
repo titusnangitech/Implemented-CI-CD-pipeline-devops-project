@@ -1,4 +1,4 @@
-![changing the user to ansadmin using sudo su](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/23f3e329-2f8a-4374-b26a-0243215f3a9c)
+
 ![creating ansible server](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/3116efd7-90b7-4778-9b22-8f5dc74ad6ac)
 ![using the existing key pair and security group on the ansible server](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/308d78c2-d12a-4cab-a817-aa54532dc6af)
 ![ansible server created with success](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/762f8fee-5708-459e-a52d-de0ceecbcafd)
