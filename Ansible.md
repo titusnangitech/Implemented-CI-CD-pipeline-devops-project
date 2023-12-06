@@ -82,3 +82,5 @@
 - **Adding keys to host Docker using its private IP**
 
 ![Correct adding keys to host Docker using private IP](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/e5c71480-224f-432f-be10-201481ca9b2a)
+
+- **More snapshots to be added**
