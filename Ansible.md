@@ -1,6 +1,6 @@
 # Intergrating Ansible in CI/CD Pipeline
 
-- **Created an Ansible server**
+- **Created an Ansible server in AWS**
 
 ![creating ansible server](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/3116efd7-90b7-4778-9b22-8f5dc74ad6ac)
 
