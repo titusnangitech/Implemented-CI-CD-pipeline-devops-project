@@ -113,6 +113,6 @@
 
 ![created a successful build for the jenkins job pulling code from github](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/debb73ae-cc15-40fd-a595-ece39c0d9224)
 
--**Successfully ran a build that is pulling code from Github**
+- **Successfully ran a build that is pulling code from Github**
 
 ![successifuly ran a build of the build that is pulling code from github](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/136823aa-5848-4c78-bcd5-a2a82207ff06)
