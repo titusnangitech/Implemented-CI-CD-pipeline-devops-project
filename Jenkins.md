@@ -1,4 +1,5 @@
 - **Created an ec2 instance**
+  
 ![creating an ec2 instance using linux 2](https://github.com/titusnangitech/Implemented-CI-CD-pipeline-devops-project/assets/128609800/3f355ac4-38ae-4394-aac6-236483bd50b0)
 
 - **Created a new key pair**
