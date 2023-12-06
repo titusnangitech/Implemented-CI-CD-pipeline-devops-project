@@ -1,3 +1,5 @@
+# Intergrating Docker in CI/CD Pipeline.
+
 - **Created an EC2 instance using Amazon Linux 2 as the Dockerhost**
   
 
